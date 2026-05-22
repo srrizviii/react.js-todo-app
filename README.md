@@ -1,6 +1,6 @@
 # Todo App
 
-A modern todo application built with React.js and Vite featuring persistent local storage, responsive UI styling with FantaCSS, and interactive task management.
+A modern todo application built with React.js and Vite featuring persistent local storage (your edits and changes will persist across site reloads!!), responsive UI styling with FantaCSS, and interactive task management.
 
 ---
 
